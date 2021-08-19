@@ -1,6 +1,6 @@
-# Starting with ReactJS
+# Controlling authentication on routes in ReactJS
 
-Simplest ReactJS example project created from [this](https://www.youtube.com/watch?v=7A4UQGrFU9Q) video.
+ReactJS project created from [this](https://www.youtube.com/watch?v=sYe4r8WXGQg) video.
 
 ## Used technologies:
 - JavaScript ES6
@@ -8,7 +8,7 @@ Simplest ReactJS example project created from [this](https://www.youtube.com/wat
 
 ## How to run?
 - Clone this repository.
-- Inside `/iniciando-reactjs` folder, run `yarn install` to install dependencies.
+- Inside `/route-auth` folder, run `yarn install` to install dependencies.
 - Run `yarn start` to run the app in the development mode.
 - Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
     - The page will reload if you make edits.

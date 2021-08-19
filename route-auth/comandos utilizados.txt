@@ -1,0 +1,6 @@
+npx create-react-app route-auth	// Cria um projeto ReactJS chamado "route-auth"
+
+yarn start 	// Executa o projeto 
+
+
+yarn add react-router-dom   // Pacote para fazer rotas no ReactJS

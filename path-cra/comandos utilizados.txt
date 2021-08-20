@@ -1,0 +1,7 @@
+npx create-react-app path-cra	// Cria um projeto ReactJS chamado "path-cra"
+
+yarn start 	// Executa o projeto
+
+yarn add customize-cra react-app-rewired --dev  // Pacotes para permitirem manipular algumas configurações do projeto ReactJS
+
+yarn add babel-plugin-root-import --dev // Pacote para importar configurações do Babel

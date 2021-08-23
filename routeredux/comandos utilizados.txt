@@ -1,0 +1,9 @@
+npx create-react-app routeredux	// Cria um projeto ReactJS chamado "routeredux"
+
+yarn start 	// Executa o projeto
+
+yarn add redux@^4.0.0 react-redux@^5.0.7 redux-thunk@^2.3.0   // Pacotes do redux
+
+yarn add react-router-dom@^4.3.1   // Pacote de gerenciamento de rotas
+
+yarn add history@^4.7.2 connected-react-router@^4.4.1   // Pacotes para ajudarem no controle do histórico das rotas

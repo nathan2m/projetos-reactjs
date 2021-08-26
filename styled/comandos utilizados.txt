@@ -1,0 +1,5 @@
+npx create-react-app styled	// Cria um projeto ReactJS chamado "styled"
+
+yarn start 	// Executa o projeto
+
+yarn add styled-components  // Pacote para ajudar na estilização dos componentes em um projeto ReactJS

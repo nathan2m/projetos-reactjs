@@ -1,0 +1,7 @@
+npm init -y // Iniciar projeto NodeJS
+
+yarn add react react-dom next   // Instalar React junto com Next
+
+yarn dev    // Iniciar servidor
+
+yarn add isomorphic-fetch   // Pacote para permitir consumir API Rest dentro de um projeto backend
